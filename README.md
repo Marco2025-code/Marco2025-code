@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development and networking 
 - 🌱 I’m currently learning IT at university of Juba, South Sudan
 - 💞️ I’m looking to collaborate on Online hotl booking system in php, mysql, html and css
-- 📫 How to reach me @ andycarrol1989@gmail.coom
+- 📫 How to reach me @ andycarroll1989@gmail.coom
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
